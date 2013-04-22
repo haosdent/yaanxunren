@@ -1,0 +1,9 @@
+---
+applications:
+- name: yaanxunren
+  framework: node
+  runtime: node08
+  memory: 512M
+  instances: 2
+  url: yaanxunren.${target-base}
+  path: .

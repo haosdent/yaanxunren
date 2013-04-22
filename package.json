@@ -1,0 +1,13 @@
+{
+  "name": "yaanxunren",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "3.1.0",
+    "wechat": "0.3.5",
+    "mongoose": "3.5.8"
+  }
+}
